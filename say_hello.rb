@@ -1,3 +1,3 @@
 say_hello("Kent Beck")
-  puts "Hello John" 
+  puts "Hello John"
 end
